@@ -1,0 +1,11 @@
+nohup: ignoring input
+
+> software-download-site@0.0.0 dev /home/ubuntu/software-download-site
+> vite --host
+
+
+  VITE v6.3.5  ready in 1121 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://169.254.0.21:5173/
+ ELIFECYCLE  Command failed with exit code 143.
